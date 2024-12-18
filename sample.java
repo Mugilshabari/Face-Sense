@@ -16,6 +16,7 @@ public class sample
         // git commit -m filename
         // git push origin 
         // git branch
+        // follow the steps
 
 
 
